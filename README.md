@@ -2,7 +2,7 @@
 Done by: Ng Chuen Siong, Nelson
 
 ## Objective
-Build a dashboard to track a company’s product sales, profitability, and quantity ordered. 
+Build a dashboard to track a company’s product sales, profitability, and quantity ordered. <br>
 
 ## Procedure
 <b>Datasets</b><br>
@@ -16,10 +16,10 @@ First, design the star schema for the project. Next, divide the main dataset int
 Refer to csv files within star_schema_data.<br>
 
 <b>Dashboard Design</b><br>
-Perform wireframing for the dashboard to visualize the layout and components on a piece of paper. 
+Perform wireframing for the dashboard to visualize the layout and components on a piece of paper.<br>
 
 <b>Build QlikSense Dashboard</b><br>
-Load the fact and dimension tables into QlikSense, and join them using associative joins to form the data model. Develop the dashboard based on the wireframe as a reference. Conduct data quality checks to ensure accuracy. 
+Load the fact and dimension tables into QlikSense, and join them using associative joins to form the data model. Develop the dashboard based on the wireframe as a reference. Conduct data quality checks to ensure accuracy. <br>
 
 ## Operate QlikSense Dashboard
-Upload csv files within star_schema_data and Sales Performance Dashboard.qvf to QlikSense <br>
+Upload the csv files within star_schema_data and Sales Performance Dashboard.qvf to QlikSense.<br>
