@@ -1,3 +1,7 @@
+
+## Objective
+Build a dashboard to track a company’s product sales, profitability, and quantity ordered. 
+
 <b>Datasets</b><br>
 The main dataset is sourced from Kaggle<a href="https://www.kaggle.com/datasets/beekiran/sales-data-analysis"><sup>1</sup></a>, supplemented by additional self-generated datasets to demonstrate drill-down and rollup functions on QlikSense. <br>
 
