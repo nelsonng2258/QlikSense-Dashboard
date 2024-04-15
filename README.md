@@ -8,7 +8,7 @@ Build a dashboard to track a company’s product sales, profitability, and quant
 The main dataset is sourced from Kaggle<a href="https://www.kaggle.com/datasets/beekiran/sales-data-analysis"><sup>1</sup></a>, supplemented by additional self-generated datasets to demonstrate drill-down and rollup functions on QlikSense. <br>
 
 <b>Data Engineering</b><br>
-First, design the star schema for the project. Next, divide the main dataset into fact and dimension tables. Then, enrich the respective dimension tables with the self-generated datasets. Refer to ‘Data Engineering’ for the data engineering work done. <br>
+First, design the star schema for the project. Next, divide the main dataset into fact and dimension tables. Then, enrich the respective dimension tables with the self-generated datasets. Refer to ‘Data Engineering.ipynb’ for the data engineering work done. <br>
 
 <b>Dashboard Design</b><br>
 Perform wireframing for the dashboard to visualize the layout and components on a piece of paper. 
