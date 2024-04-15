@@ -24,4 +24,4 @@ Load the fact and dimension tables into QlikSense, and join them using associati
 ## Operate QlikSense Dashboard
 Upload the csv files within star_schema_data and Sales Performance Dashboard.qvf to QlikSense.<br>
 
-Refer to Sales Performance Dashboard - pg 1.pdf and Sales Performance Dashboard - pg 1.pdf for QlikSense Dashboard design.
+Refer to Sales Performance Dashboard - pg 1.pdf and Sales Performance Dashboard - pg 2.pdf for QlikSense Dashboard design.
