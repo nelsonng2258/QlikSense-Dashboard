@@ -1,4 +1,5 @@
 # QlikSense Dashboard
+Done by: Ng Chuen Siong, Nelson
 
 ## Objective
 Build a dashboard to track a company’s product sales, profitability, and quantity ordered. 
